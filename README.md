@@ -1,1 +1,1 @@
-# https:Dev-Verissimo.SiteDeReceitas.github.io
+# https://Dev-Verissimo.SiteDeReceitas.github.io
